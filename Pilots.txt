@@ -1,0 +1,7 @@
+PID~NAME~HOMETOWN~HOMESTATE~RANK
+1~Joe~Salem~VA~Captain
+2~Sara~Vinton~VA~Lieutenant
+3~Dave~Salem~VA~Captain
+5~Diana~Vinton~VA~Captain
+6~Brian~Roanoke~VA~Major
+4~Fred~Salem~VA~Major

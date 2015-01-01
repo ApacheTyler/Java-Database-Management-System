@@ -1,0 +1,7 @@
+NAME~HOMETOWN~HOMESTATE~PID~RANK~Test
+Joe~Salem~VA~1~Captain~T
+Sara~Vinton~VA~2~Lieutenant~T
+Dave~Salem~VA~3~Captain~T
+Fred~Salem~VA~4~Major~T
+Diana~Vinton~VA~5~Captain~T
+Brian~Roanoke~VA~6~Major~T
